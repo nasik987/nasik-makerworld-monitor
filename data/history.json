@@ -89,5 +89,18 @@
       "boostCount": 1215
     },
     "notes": []
+  },
+  {
+    "time_utc": "2026-09-22T22:17:07+00:00",
+    "uid": "506781369",
+    "metrics": {
+      "followerCount": 3507,
+      "modelCount": 143,
+      "downloadCount": 94299,
+      "printCount": 45388,
+      "likeCount": 30414,
+      "boostCount": 1215
+    },
+    "notes": []
   }
 ]

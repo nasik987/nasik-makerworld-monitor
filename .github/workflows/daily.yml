@@ -2,7 +2,7 @@ name: MakerWorld Nasik - Daily Monitor
 
 on:
   schedule:
-    - cron: '17 6 * * *'
+    - cron: '5 * * * *'
   workflow_dispatch:
 
 permissions:

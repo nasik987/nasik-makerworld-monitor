@@ -2,17 +2,17 @@
 
 Automatická analýza historických měření.
 
-Poslední měření: 2026-09-23T16:19:38+00:00
-Počet měření: 26
+Poslední měření: 2026-09-23T17:18:02+00:00
+Počet měření: 27
 
 ## Aktuální stav
 
 | Metrika | Hodnota |
 |---|---:|
-| Stažení | 94 489 |
-| Tisky | 45 468 |
+| Stažení | 94 502 |
+| Tisky | 45 476 |
 | Sledující | 3 511 |
-| Lajky | 30 470 |
+| Lajky | 30 471 |
 | Boosty | 1 215 |
 | Modely | 144 |
 
@@ -20,30 +20,30 @@ Počet měření: 26
 
 | Metrika | Poslední interval | Dostupná data za 7 dní | Dostupná data za 30 dní |
 |---|---:|---:|---:|
-| Stažení | 490,78 | 252,46 | 252,46 |
-| Tisky | 186,96 | 107,15 | 107,15 |
-| Sledující | 23,37 | 6,49 | 6,49 |
-| Lajky | 163,59 | 77,93 | 77,93 |
+| Stažení | 320,55 | 254,63 | 254,63 |
+| Tisky | 197,26 | 110,03 | 110,03 |
+| Sledující | 0,00 | 6,29 | 6,29 |
+| Lajky | 24,66 | 76,23 | 76,23 |
 | Boosty | 0,00 | 0,00 | 0,00 |
-| Modely | 23,37 | 0,81 | 0,81 |
+| Modely | 0,00 | 0,79 | 0,79 |
 
 ## Poměry
 
 | Ukazatel | Hodnota |
 |---|---:|
 | Tisky / stažení | 48,12 % |
-| Lajky / stažení | 32,25 % |
+| Lajky / stažení | 32,24 % |
 | Boosty / stažení | 1,29 % |
-| Stažení na model | 656,17 |
-| Tisky na model | 315,75 |
+| Stažení na model | 656,26 |
+| Tisky na model | 315,81 |
 | Lajky na model | 211,60 |
 
 ## Milníky
 
 | Milník | Zbývá |
 |---|---:|
-| 100 000 stažení | 5 511 |
-| 50 000 tisků | 4 532 |
+| 100 000 stažení | 5 498 |
+| 50 000 tisků | 4 524 |
 | 4 000 sledujících | 489 |
 
 ## Omezení

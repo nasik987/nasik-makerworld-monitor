@@ -1,0 +1,81 @@
+[
+  {
+    "time_utc": "2026-09-23T08:59:49+00:00",
+    "uid": "506781369",
+    "models": {
+      "2615261": {
+        "title": "Compact Screwdriver Bit Case",
+        "metrics": {
+          "downloadCount": 5283,
+          "printCount": 3577,
+          "likeCount": 5365,
+          "collectionCount": 17734,
+          "boostCount": 210,
+          "commentCount": 470,
+          "shareCount": 0
+        }
+      },
+      "2789425": {
+        "title": "Pocket Floss Case | Portable Floss Pick Holder",
+        "metrics": {
+          "downloadCount": 647,
+          "printCount": 744,
+          "likeCount": 321,
+          "collectionCount": 1316,
+          "boostCount": 4,
+          "commentCount": 36,
+          "shareCount": 0
+        }
+      },
+      "2814025": {
+        "title": "Iron Vault Chest",
+        "metrics": {
+          "downloadCount": 53,
+          "printCount": 21,
+          "likeCount": 64,
+          "collectionCount": 164,
+          "boostCount": 0,
+          "commentCount": 1,
+          "shareCount": 0
+        }
+      },
+      "2869792": {
+        "title": "Vector LED desk lamp",
+        "metrics": {
+          "downloadCount": 39,
+          "printCount": 29,
+          "likeCount": 76,
+          "collectionCount": 173,
+          "boostCount": 5,
+          "commentCount": 8,
+          "shareCount": 0
+        }
+      },
+      "2976476": {
+        "title": "Sci-Fi Toolbox – Modular Storage Case",
+        "metrics": {
+          "downloadCount": 173,
+          "printCount": 134,
+          "likeCount": 354,
+          "collectionCount": 1077,
+          "boostCount": 10,
+          "commentCount": 30,
+          "shareCount": 0
+        }
+      },
+      "3120081": {
+        "title": "Gothic Cathedral Treasure Chest",
+        "metrics": {
+          "downloadCount": 6,
+          "printCount": 5,
+          "likeCount": 18,
+          "collectionCount": 36,
+          "boostCount": 0,
+          "commentCount": 2,
+          "shareCount": 0
+        }
+      }
+    },
+    "notes": []
+  }
+]

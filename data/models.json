@@ -3,13 +3,13 @@
     "3120081": {
       "title": "Gothic Cathedral Treasure Chest",
       "source": "designer-profile:pinned",
-      "enabled": true,
+      "enabled": false,
       "url": "https://makerworld.com/en/models/3120081-gothic-cathedral-treasure-chest"
     },
     "2976476": {
       "title": "Sci-Fi Toolbox – Modular Storage Case",
       "source": "designer-profile:pinned",
-      "enabled": true,
+      "enabled": false,
       "url": "https://makerworld.com/en/models/2976476-sci-fi-toolbox-modular-storage-case"
     },
     "2869792": {
@@ -21,19 +21,19 @@
     "2814025": {
       "title": "Iron Vault Chest",
       "source": "designer-profile:pinned",
-      "enabled": true,
+      "enabled": false,
       "url": "https://makerworld.com/en/models/2814025-iron-vault-chest"
     },
     "2789425": {
       "title": "Pocket Floss Case | Portable Floss Pick Holder",
       "source": "designer-profile:pinned",
-      "enabled": true,
+      "enabled": false,
       "url": "https://makerworld.com/en/models/2789425-pocket-floss-case-portable-floss-pick-holder"
     },
     "2615261": {
       "title": "Compact Screwdriver Bit Case",
       "source": "designer-profile:pinned",
-      "enabled": true,
+      "enabled": false,
       "url": "https://makerworld.com/en/models/2615261-compact-screwdriver-bit-case"
     }
   },

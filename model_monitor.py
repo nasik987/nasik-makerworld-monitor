@@ -50,7 +50,7 @@ def main():
         p=pinned_by_id.get(mid,{})
         info.setdefault("title", p.get("title") or f"Model {mid}")
         info["source"]="designer-profile:pinned"
-       info.setdefault("enabled", True)
+        info.setdefault("enabled", True)
 
     now=datetime.now(timezone.utc).isoformat(timespec="seconds")
     snapshot={"time_utc":now,"uid":UID,"models":{},"notes":[]}
